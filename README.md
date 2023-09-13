@@ -33,4 +33,6 @@ Para resolver el regexp puedes apoyarte del siguiente tutorial: https://stackove
 # Ejercicio 6: Envío de datos mediante a un formulario
 Regístrate en la web https://formsubmit.co/ y crea un formulario que envíe a la ruta correspondiente a tu correo un correo, un teléfono y un mensaje.
 
-Adjunta una captura que verifique que has recibido los datos en un correo (si no te llegan, mira en la bandeja de spam)
+Adjunta una captura que verifique que has recibido los datos en un correo (si no te llegan, mira en la bandeja de spam):  
+
+![Captura de datos](./imagenes/ejercicio6.jpg)
