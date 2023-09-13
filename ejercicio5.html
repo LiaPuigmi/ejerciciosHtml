@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fifth exercise</title>
+  </head>
+  <body>
+    <form action="#">
+      <h1>
+        <label for="nombre"
+          >Validación de teléfono mediante a expresiones regulares:
+        </label>
+      </h1>
+      <input
+        type="text"
+        name="mobile"
+        placeholder="Enter 9 digits of your phone"
+        class="form-control"
+        pattern="(\d){9}"
+        required
+      />
+      <button type="submit">Enviar</button>
+    </form>
+  </body>
+</html>
